@@ -1,8 +1,4 @@
-# POE Part 1 - Login and Registration System
-
- Project Overview
-This project implements a **user registration and login system** as specified in POE Part 1.  
-It validates user input according to strict requirements and provides appropriate feedback messages.
+# POE Part 1 - Login and Registration Syste
 
  Features Implemented
 
