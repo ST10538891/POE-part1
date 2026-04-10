@@ -54,10 +54,10 @@ public class Login {
             return"Password is not correctly formatted; please ensure that your username contains at least eight characters, a capital letter, a number and a special chracter.";
         }
         if (!checkCellPhoneNumber()) {
-            return "Cell number is incorrectly formatted or doess not contain an international code; please correct the number and try again.";
+            return "Cell number entered is incorrectly formatted or doess not contain an international code; please correct the number and try again.";
         }
          this.storedUsername = this.username;
-         return "User successfully registered!";
+         return "User is now successfully registered!";
     }
 
     /**
