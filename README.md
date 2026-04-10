@@ -1,4 +1,4 @@
-# POE Part 1 - Login and Registration Syste
+# POE Part 1 - Login and Registration System
 
  Features Implemented
 
