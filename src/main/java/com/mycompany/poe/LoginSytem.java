@@ -34,9 +34,9 @@ public class LoginSytem {
          System.out.print("Enter cell phone number (with +27): ");
         login.setNumber = input.nextLine();
         
-        System.out.println("Registration appproved");
+        System.out.println("Your Registration is appproved");
         
-        if (registrationMessage.equals("User successfully registered!")){
+        if (registrationMessage.equals("User is now successfully registered!")){
             /* */       System.out.println("Registration failed. Please try aagin, ");
             return;
         }
